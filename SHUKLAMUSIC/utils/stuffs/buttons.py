@@ -8,7 +8,7 @@ class BUTTONS(object):
     [InlineKeyboardButton("ɪᴍᴀɢᴇ", callback_data="mplus HELP_Image"),
     InlineKeyboardButton("ᴀᴄᴛɪᴏɴ", callback_data="mplus HELP_Action"),InlineKeyboardButton("sᴇᴀʀᴄʜ", callback_data="mplus HELP_Search")],    
     [InlineKeyboardButton("ғᴏɴᴛ", callback_data="mplus HELP_Font"),
-    InlineKeyboardButton("ɢᴀᴍᴇs", callback_data="mplus HELP_Game"),InlineKeyboardButton("ᴛ-ɢʀᴀᴘʜ", callback_data="mplus HELP_TG")],
+    InlineKeyboardButton("ᴍᴏᴠɪᴇs", callback_data="mplus HELP_Game"),InlineKeyboardButton("ᴛ-ɢʀᴀᴘʜ", callback_data="mplus HELP_TG")],
     [InlineKeyboardButton("ɪᴍᴘᴏsᴛᴇʀ", callback_data="mplus HELP_Imposter"),
     InlineKeyboardButton("ᴛʀᴜᴛʜ-ᴅᴀʀᴇ", callback_data="mplus HELP_TD"),InlineKeyboardButton("ʜᴀsᴛᴀɢ", callback_data="mplus HELP_HT")], 
     [InlineKeyboardButton("ᴛᴛs", callback_data="mplus HELP_TTS"),
