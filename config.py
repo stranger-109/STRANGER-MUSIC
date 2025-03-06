@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Demonxcoder")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lll_STRANGER_XD_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Melodymusics_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Blazzeixc_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝄟✮⃝⏤͟͟͞͞ 𝐌єℓσԃу ✘ 𝐌υѕιƈ 💗")
+BOT_NAME = getenv("BOT_NAME" , ᯓ𓆰𝅃꯭ẞ𝚕ᴀᴢᴢ𝚎¡𝚡¢˶‌‌֟፝◡‌⃝❄️")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "assistant_musica")
+ASSUSERNAME = getenv("ASSUSERNAME" , "@ASSISTANT_STUBIXC")
 # ---------------------------------------------------------
 
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MoviesWDs_bot")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Mrshubh_1227")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Blazzeixc_music_bot_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/STUBIXC_SUPPORT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
