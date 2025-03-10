@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "STUBIXC_ASSISTANT")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("mongodb+srv://blazzeixc-music:MIKEY@143@cluster0.5rbl8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", None)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
